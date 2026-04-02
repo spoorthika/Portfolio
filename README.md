@@ -24,7 +24,6 @@ A professional portfolio website showcasing my background, technical skills, fea
 - `resume.html` - resume page
 - `resume.css` - resume styling
 - `favicon.svg` - browser tab icon
-- `Spoorthika_Reddy_Legala_Resume.pdf` - resume PDF
 
 ## How To View
 
